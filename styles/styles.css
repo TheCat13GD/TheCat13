@@ -1,13 +1,19 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+}
+
 header {
+  padding: 20px;
   background: #00cc00;
 }
 
 main {
-    width: 64%;
-    margin: 0 auto;
+  width: 64%;
+  margin: 0 auto;
 }
 
 footer {
+  padding: 20px;
   background: #00cc00;
   text-align: center;
 }
