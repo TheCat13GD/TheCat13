@@ -21,7 +21,7 @@ main {
 .mainsmain {
   width: 64%;
   margin: 0 auto;
-  background-image: linear-gradient(to right, #b22222, #ff7f50, #3cb371);
+  background-image: linear-gradient(#dc143c, #3cb371);
 }
 
 footer {
