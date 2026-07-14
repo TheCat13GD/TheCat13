@@ -11,7 +11,7 @@ header, footer {
 }
 
 header {
-  z-index: 1;
+  z-index: 3;
 }
 
 footer {
@@ -23,6 +23,7 @@ footer {
 }
 
 main {
+  z-index: 1;
   background-image: url("https://art.ngfiles.com/images/7917000/7917780_3478394_thecat13_untitled-7917780.194831a0c51d38370541dcea2bf798ab.webp?f1783970527");
   background-size: cover;
   background-position: center;
