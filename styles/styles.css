@@ -10,6 +10,14 @@ header, footer {
   color: white;
 }
 
+header {
+  z-index: 9;
+}
+
+footer {
+  text-align: center;
+}
+
 .enrique {
   display: inline-block;
 }
@@ -31,8 +39,4 @@ main {
 
 .mainsmain img {
   box-shadow: 6px 6px 0px 0px #333;
-}
-
-footer {
-  text-align: center;
 }
