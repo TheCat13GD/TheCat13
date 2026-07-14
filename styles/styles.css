@@ -19,6 +19,7 @@ main {
 .mainsmain {
   width: 64%;
   margin: 0 auto;
+  padding: 20px;
   background-image: linear-gradient(#dc143c, #3cb371);
 }
 
