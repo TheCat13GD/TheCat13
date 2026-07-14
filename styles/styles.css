@@ -15,7 +15,7 @@ header {
 main {
   width: 64%;
   margin: 0 auto;
-  background-image: linear-gradient(right, #343434, #963257, #e26292, #963257)
+  background-image: linear-gradient(to right, #b22222, #ff7f50, #3cb371);
 }
 
 footer {
