@@ -84,7 +84,7 @@ main {
 }
 
 .buttons a:active {
-  box-shadow: inset -1px 2px 4px 0px #ffffff7f;
+  box-shadow: inset 0px 1px 4px 0px #ffffff7f;
   color: #66ff66;
 }
 
