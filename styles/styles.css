@@ -21,6 +21,16 @@ footer {
   text-align: center;
 }
 
+.headerlogo {
+  width: 300px;
+}
+
+@media (min-width: 500px) { /* provisional width */
+  .headerlogo {
+    width: 450px;
+  }
+}
+
 @media (min-width: 960px) { /* provisional width */
   .title {
     display: inline-block;
