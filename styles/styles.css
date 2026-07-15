@@ -22,7 +22,7 @@ footer {
 }
 
 @media (min-width: 960px) { /* provisional width */
-  .enrique {
+  .title {
     display: inline-block;
     vertical-align: top;
     height: 150px;
