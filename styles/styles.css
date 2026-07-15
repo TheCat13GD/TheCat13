@@ -26,7 +26,7 @@ footer {
   width: 450px;
 }
 
-@media (max-width: 499px) { /* provisional width */
+@media (max-width: 500px) { /* provisional width */
   .headerlogo {
     width: 300px;
     margin: 0 auto;
@@ -57,9 +57,9 @@ main {
   background-image: linear-gradient(#3cb371, #2e8b57);
 }
 
-@media (max-width: 499px) { /* provisional width */
+@media (max-width: 500px) { /* provisional width */
   .mainsmain {
-    width: 100%;
+    width: auto;
   }
 }
 
