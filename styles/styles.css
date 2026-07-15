@@ -28,7 +28,7 @@ footer {
 
 @media (max-width: 500px) { /* provisional width */
   .headerlogo {
-    width: auto;
+    width: 100%;
   }
   .headerlogo img {
     width: 300px;
