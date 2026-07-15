@@ -21,7 +21,7 @@ footer {
   text-align: center;
 }
 
-@media (min-width: 768px) { /* provisional width */
+@media (min-width: 960px) { /* provisional width */
   .enrique {
     display: inline-block;
     vertical-align: top;
