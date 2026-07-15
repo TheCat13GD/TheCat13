@@ -28,6 +28,9 @@ footer {
 
 @media (max-width: 500px) { /* provisional width */
   .headerlogo {
+    width: auto;
+  }
+  .headerlogo img {
     width: 300px;
     margin: 0 auto;
   }
