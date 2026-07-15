@@ -27,7 +27,6 @@ footer {
 
 @media (max-width: 499px) { /* provisional width */
   .headerlogo {
-    horizontal-align: center;
     width: 300px;
   }
 }
