@@ -56,6 +56,12 @@ main {
   background-image: linear-gradient(#3cb371, #2e8b57);
 }
 
+@media (max-width: 499px) { /* provisional width */
+  .mainsmain {
+    width: 100%;
+  }
+}
+
 .mainsmain img {
   box-shadow: 6px 6px 0px 0px #203528;
 }
