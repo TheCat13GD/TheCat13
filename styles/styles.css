@@ -71,9 +71,15 @@ main {
   box-shadow: 6px 6px 0px 0px #203528;
 }
 
+.buttons {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .buttons a {
   box-shadow: 0px 4px 4px -4px black;
   padding: 4px 6px;
+  white-space: nowrap;
   color: white;
 }
 
