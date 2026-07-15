@@ -21,15 +21,11 @@ footer {
   text-align: center;
 }
 
-.enrique {
-  display: inline-block;
-  vertical-align: top;
-  height: 150px;
-}
-
-@media (max-width: 799px) { /* provisional width */
+@media (min-width: 768px) { /* provisional width */
   .enrique {
-    height: auto;
+    display: inline-block;
+    vertical-align: top;
+    height: 150px;
   }
 }
 
