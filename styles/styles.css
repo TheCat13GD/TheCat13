@@ -114,5 +114,8 @@ main .buttons a {
   box-shadow: 6px 6px 0px 0px #203528;
   border: 1px solid #203528;
   background-image: linear-gradient(#99ff99, #66ff66);
-  padding-left: 8px;
+}
+
+.box p {
+  margin-left: 8px;
 }
